@@ -2,7 +2,7 @@
 #  NAME: T.KAVINAJAI
 #  REGISTER NUMBER: 212223100020
 ## AIM
-To write a python program for simulating ARP protocols using TCP.
+To write a python program for simulating ARP protocols using TCP. 
 ## ALGORITHM:
 ## Client:
 1. Start the program
